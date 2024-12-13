@@ -1,0 +1,6 @@
+@tl2_tp5_2024_paulaNerea_HostAddress = http://localhost:5255
+
+GET {{tl2_tp5_2024_paulaNerea_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
